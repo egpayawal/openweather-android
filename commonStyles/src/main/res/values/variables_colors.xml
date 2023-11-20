@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Variables.Colors" parent="Variables.Button">
+        <item name="colorPrimaryFull">#45278B</item>
+        <item name="colorPrimaryShade1">#7B61FF</item>
+        <item name="colorPrimaryShade2">#2E245C</item>
+        <item name="colorPrimaryShade3">#7053E1</item>
+        <item name="colorSecondaryFull">#BEADFF</item>
+        <item name="colorAlertWarning">#FFCE22</item>
+        <item name="colorAlertSuccess">#7DDB25</item>
+        <item name="colorAlertError">#F10021</item>
+        <item name="colorGreyInactive">#CECECE</item>
+        <item name="colorGreyBorderDivider">#E5E5E5</item>
+        <item name="colorBackground">#FFFFFF</item>
+        <item name="colorField">#F3F3F5</item>
+        <item name="colorSheet">#FFFFFF</item>
+        <!-- On Colors -->
+        <item name="colorOnLightRegular">#0A0A0A</item>
+        <item name="colorTextTertiary">#848484</item>
+        <item name="colorOnLightSecondary">#474747</item>
+        <item name="colorOnLightTertiary">#848484</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorOnSecondary">#96EBEBF5</item>
+        <item name="colorOnAlertError">#FFFFFF</item>
+        <item name="colorOnAlertWarning">#000000</item>
+        <item name="colorOnAlertSuccess">#000000</item>
+        <item name="rippleColor">@color/color_primary_full_12</item>
+
+    </style>
+</resources>

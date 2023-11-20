@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Variables.Root" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="buttonsCapitalized">false</item>
+        <item name="toolbarMainStyle">@style/Styles.TopAppBar.Main</item>
+        <item name="toolbarMainLargeStyle">@style/Styles.TopAppBar.Main.Large</item>
+        <item name="toolbarSubStyle">@style/Styles.TopAppBar.Sub</item>
+    </style>
+</resources>

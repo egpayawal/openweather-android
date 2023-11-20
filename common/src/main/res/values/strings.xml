@@ -1,0 +1,22 @@
+<resources>
+    <string name="full_name">Full name</string>
+    <string name="password">Password</string>
+    <string name="privacy_policy">By signing up, you agree to our terms of service and that you have read our privacy policy.</string>
+    <string name="email_address">Email address</string>
+    <string name="country">Country</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="email_address_caps">Email Address</string>
+    <string name="email_must_not_be_empty">Email must not be empty</string>
+    <string name="logout">Logout</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="generic_error">Oops, something went wrong. Please try again later. If the problem persists, please contact us.</string>
+    <string name="generic_error_short">Oops, something went wrong.</string>
+    <string name="hide">Hide</string>
+    <string name="continue_string">Continue</string>
+    <string name="options">options</string>
+    <string name="cancel">Cancel</string>
+    <string name="take_a_photo">Take a Photo</string>
+    <string name="choose_from_gallery">Choose from Gallery</string>
+    <string name="select_picture">Select Picture</string>
+</resources>

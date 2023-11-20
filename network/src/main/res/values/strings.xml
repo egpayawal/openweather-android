@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">android-baseplate-backend</string>
+    <string name="intent_action_io_exception">com.egpayawal.openweather.IO_EXCEPTION</string>
+</resources>

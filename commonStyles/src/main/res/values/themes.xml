@@ -1,0 +1,50 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Baseplate" parent="Variables.Colors">
+        <!-- region System UI -->
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryFull</item>
+        <item name="android:windowBackground">@drawable/window_background</item>
+        <!-- endregion -->
+
+        <!-- region Shapes -->
+        <item name="shapeAppearanceSmallComponent">
+            @style/ShapeAppearance.Baseplate.SmallComponent
+        </item>
+        <item name="shapeAppearanceMediumComponent">
+            @style/ShapeAppearance.Baseplate.MediumComponent
+        </item>
+        <item name="shapeAppearanceLargeComponent">
+            @style/ShapeAppearance.Baseplate.LargeComponent
+        </item>
+        <!-- endregion -->
+
+        <!-- region Default View Styles -->
+        <item name="materialCardViewStyle">@style/Styles.Card</item>
+        <item name="bottomNavigationStyle">@style/Styles.BottomNavigation</item>
+        <item name="materialButtonStyle">@style/Styles.Button.Primary</item>
+        <item name="android:textViewStyle">@style/Styles.Text.Body</item>
+        <item name="bottomSheetDialogTheme">@style/Styles.BottomSheet</item>
+        <item name="imageViewRoundStyle">@style/Styles.ImageView.Round</item>
+        <item name="switchStyle">@style/Styles.Toggle</item>
+        <item name="checkboxStyle">@style/Styles.Checkbox</item>
+        <item name="radioButtonStyle">@style/Styles.Radio</item>
+        <item name="sliderStyle">@style/Widget.Baseplate.Slider</item>
+        <item name="toolbarStyle">@style/Styles.TopAppBar.Main</item>
+        <item name="appBarLayoutStyle">@style/Styles.TopAppBar.Layout</item>
+        <item name="textInputStyle">@style/Styles.Input.TextInputLayout.Filled</item>
+        <item name="editTextStyle">@style/Styles.Input.TextInputEditText.Filled.Border</item>
+        <item name="materialAlertDialogTheme">@style/Styles.Dialog.Alert</item>
+        <item name="android:textColor">?attr/colorOnLightRegular</item>
+        <item name="materialCalendarTheme">@style/Styles.Dialog.DatePicker</item>
+        <!-- endregion -->
+    </style>
+
+    <style name="SplashTheme" parent="Theme.Baseplate">
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryFull</item>
+        <item name="android:windowBackground">@drawable/window_background_splash_screen</item>
+    </style>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="butterfly_bush">#5A489B</color>
+    <color name="black_50">#CC000000</color>
+    <color name="black_30">#80000000</color>
+    <color name="cerulean_blue">#2C66D5</color>
+</resources>

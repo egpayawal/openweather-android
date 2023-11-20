@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Variables.Dimensions" parent="Variables.Root">
+        <item name="screenMargin">@dimen/margin_large</item>
+        <item name="radiusButton">@dimen/radius_small</item>
+        <item name="radiusCard">@dimen/radius_small</item>
+        <item name="radiusBottomSheet">@dimen/radius_large</item>
+        <item name="radiusInput">@dimen/radius_small</item>
+    </style>
+</resources>
