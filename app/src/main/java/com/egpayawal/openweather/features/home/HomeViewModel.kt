@@ -64,9 +64,6 @@ class HomeViewModel @Inject constructor(
         Timber.tag("DEBUG").e("Place: $location")
 
         Timber.tag("DEBUG").e("sunrise long:: ${data.sys?.sunrise}")
-        data.sys?.sunrise?.let {
-
-        }
 
         var sunrise = ""
         var sunset = ""

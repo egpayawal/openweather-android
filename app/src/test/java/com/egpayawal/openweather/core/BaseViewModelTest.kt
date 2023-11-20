@@ -17,7 +17,7 @@ abstract class BaseViewModelTest<VM : BaseViewModel> {
 
     protected open val dispatcher: TestDispatcher = StandardTestDispatcher()
 
-    private val testDispatcherProvider by lazy { TestDispatcherProvider(dispatcher) }
+    val testDispatcherProvider by lazy { TestDispatcherProvider(dispatcher) }
 
     @get:Rule
     val mainDispatcherRule by lazy { MainDispatcherRule(testDispatcherProvider.dispatcher) }
