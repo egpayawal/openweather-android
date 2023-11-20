@@ -2,7 +2,7 @@
 
 [![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=26)
-[![targetSdk](https://img.shields.io/badge/targetSdk-33-blue.svg?style=flat)](https://developer.android.com/studio/releases/platforms#13)
+[![targetSdk](https://img.shields.io/badge/targetSdk-34-blue.svg?style=flat)](https://developer.android.com/studio/releases/platforms#13)
 
 
 ## How to run the project?
