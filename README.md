@@ -9,11 +9,10 @@
 1. Open `secret.gradle.kts`
 2. Look for `open_weather_app_id` and add this API KEY `70976ae1a8d890f87853464ed5957ca6`
 
-## 🛠 Usage
-<p  align="center">
-  <img  width="600"  src="https://gitlab.com/appetiser/baseplate/android/codelabs/-/raw/develop/screenshots/baseplate-template-demo.gif"  alt="Baseplate template module demo">
+## 🛠 Demo
+<p  align="left">
+  <img src="https://github.com/egpayawal/openweather-android/assets/6327558/cb741ef8-2048-4c4b-a019-9fa99f23fea2" width="375" height="812">
 </p>
-
 
 ## Authors and acknowledgment
 
